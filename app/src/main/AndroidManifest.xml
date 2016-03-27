@@ -9,7 +9,7 @@
 
 
         <activity
-            android:name="simple.framework.activities.HomeActivity"
+            android:name="src.activities.HomeActivity"
             android:configChanges="orientation|screenSize"
             android:windowSoftInputMode="adjustResize"
             android:theme="@style/AppTheme">

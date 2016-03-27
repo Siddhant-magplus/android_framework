@@ -1,4 +1,4 @@
-package simple.framework.activities;
+package src.activities;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
